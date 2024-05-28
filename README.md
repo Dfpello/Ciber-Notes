@@ -2,6 +2,9 @@
 
 ¡Bienvenido a **Ciber-Notes!** Este repositorio contiene una colección de mis notas de Obsidian centradas en la ciberseguridad. Aquí compilo writeups de desafíos de Capture The Flag (CTF) organizados en plataformas como TryHackMe, VulnHub, VulNyx, HackMyVM y Comunidad de Hacking Ético.
 
+### Enlace Mega
+https://mega.nz/file/NfVTlCBD#RIjV8qK9Dxqx9yUiDrfMsN013ML2wXKVdiiu5gSQ6TY
+
 ## Instrucciones
 #### Paso - 1:
 Descomprime el archivo apuntes.zip.
