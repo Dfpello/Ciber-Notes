@@ -7,7 +7,7 @@ https://mega.nz/file/NfVTlCBD#RIjV8qK9Dxqx9yUiDrfMsN013ML2wXKVdiiu5gSQ6TY
 
 ## Instrucciones
 #### Paso - 1:
-Descomprime el archivo apuntes.zip.
+Descarga el comprimido en el enlace de arriba y descomprime el archivo apuntes.zip.
 ![image](https://github.com/Dfpello/Ciber-Notes/assets/48693133/fbf6ae78-f580-4f25-99d2-707f571f565c)
 
 #### Paso - 2:
