@@ -1,19 +1,18 @@
 # Ciber-Notes
 
-Welcome to **Ciber-Notes**! This repository contains a collection of my Obsidian notes focused on cybersecurity. Here, I compile writeups from Capture The Flag (CTF) challenges hosted on platforms like TryHackMe, VulnHub, VulNyx, HackMyVM, and Comunidad de Hacking Ético.
+¡Bienvenido a **Ciber-Notes!** Este repositorio contiene una colección de mis notas de Obsidian centradas en la ciberseguridad. Aquí compilo writeups de desafíos de Capture The Flag (CTF) organizados en plataformas como TryHackMe, VulnHub, VulNyx, HackMyVM y Comunidad de Hacking Ético.
 
-## Content
-- **Writeups:** Detailed explanations of my approaches, solutions, and insights gained from various CTF challenges.
-- **Notes:** Important notes about 
-- **Spanish Language:** Please note that the notes are primarily in Spanish.
+## Instrucciones
+#### Paso - 1:
+Descomprime el archivo apuntes.zip.
+![image](https://github.com/Dfpello/Ciber-Notes/assets/48693133/fbf6ae78-f580-4f25-99d2-707f571f565c)
 
-## Navigation
-- Feel free to explore the folders and files to find the specific topics or challenges you're interested in.
+#### Paso - 2:
+Entra en obsidian y usa la opción abrir carpeta como bóveda.
+![image](https://github.com/Dfpello/Ciber-Notes/assets/48693133/7c8466be-5b46-4395-bb9c-e39d305cb540)
 
-## Acknowledgments
-- Special thanks to the platforms hosting the CTF challenges mentioned, as well as the wider cybersecurity community for their invaluable resources and support.
+#### Paso - 3:
+Elige la carpeta Apuntes del comprimido
+![image](https://github.com/Dfpello/Ciber-Notes/assets/48693133/24dfc058-9d9b-4e06-aa23-b2e6c066aa51)
 
-## Contact
-- If you have any questions or feedback, feel free to reach out via email brutotesbs@gmail.com.
-
-Hope you can learn something from my notes!
+¡Espero que puedas aprender algo de mis notas!
